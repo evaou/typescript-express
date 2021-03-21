@@ -7,6 +7,8 @@
 
     $ npm install concurrently nodemon
 
+    $ npm install express body-parser cookie-session
+
 ## Run
 
     $ npm start
