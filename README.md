@@ -13,3 +13,9 @@
 ## Run
 
     $ npm start
+
+## Term
+
+- Middleware
+  - does some processing of Reqeust and Response
+  - e.g. body-parser adds body property onto Request
