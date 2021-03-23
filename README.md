@@ -19,3 +19,9 @@
 - Middleware
   - does some processing of Reqeust and Response
   - e.g. body-parser adds body property onto Request
+- Decorator
+  - is applied as running the code
+  - arguments in order
+    - class prototype
+    - property/method/accessor on the object
+    - property descriptor
