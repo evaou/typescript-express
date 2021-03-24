@@ -36,4 +36,4 @@
     - property/method/accessor on the object
     - property descriptor
 
-  - factory: return a function
+  - factory: take arguments by returning a function
